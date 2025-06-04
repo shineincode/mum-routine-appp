@@ -6,16 +6,16 @@ I'm learning web development while raising two youg children. This is my first c
 - Self care reminders
 - motivation features
 
-## Features (coming soon)
+Features (coming soon)
 - Daily tasks checklists
 - Gratitude and mood tracker
 - "Todays win" box
 - Light/dark mode
  
-- ## Tools I'm using
+Tools I'm using
 - HTML
 - CSS
 - JavaScript
 
-## My Goal
+My Goal
 Build a portfolio project that reflects my life and growth as a developer 
