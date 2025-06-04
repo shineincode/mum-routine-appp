@@ -1,7 +1,7 @@
 # mum-routine-appp
 This is a beginner web app I'm building publicly to help mums (like me!) stay organised snd prioritise self care while learning to code.
 ## Why I'm building this this 
-I'm learning well development while raising two youg children. This is my first complex project, combining 
+I'm learning web development while raising two youg children. This is my first complex project, combining:
 - Daily routine tracking
 - Self care reminders
 - motivation features
