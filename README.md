@@ -6,16 +6,16 @@ I'm learning well development while raising two youg children. This is my first 
 - Self care reminders
 - motivation features
 
-  ## Features (coming soon)
-  - Daily tasks checklists
-  - Gratitude and mood tracker
-  - "Todays win" box
-  - Light/dark mode
+## Features (coming soon)
+- Daily tasks checklists
+- Gratitude and mood tracker
+- "Todays win" box
+- Light/dark mode
  
-  - ## Tools I'm using
-  - HTML
-  - CSS
-  - JavaScript
+- ## Tools I'm using
+- HTML
+- CSS
+- JavaScript
 
-    ## My Goal
-   Build a portfolio project that reflects my life and growth as a developer 
+## My Goal
+Build a portfolio project that reflects my life and growth as a developer 
