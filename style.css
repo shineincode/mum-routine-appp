@@ -1,1 +1,24 @@
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Global styles */
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fff8f0;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* my app header */
+
+{
+  background-color: #ffe0e9;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
 
